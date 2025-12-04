@@ -1,8 +1,10 @@
 Modul07\ManajemenNilaiSiswaApp.class
+PP2_2025_233040045_B\Modul08\main.class
 Modul06\Kalkulator.class
 id\ac\unpas\praktikumpemrograman2b\Modul05\TugasModul05$1.class
 id\ac\unpas\praktikumpemrograman2b\Modul05\TugasModul05.class
 id\ac\unpas\praktikumpemrograman2b\Modul05\Latihan2$1.class
+PP2_2025_233040045_B\Modul08\view\PersegiPanjangView.class
 id\ac\unpas\praktikumpemrograman2b\Modul05\Latihan1.class
 id\ac\unpas\praktikumpemrograman2b\Modul05\Latihan1$1.class
 id\ac\unpas\praktikumpemrograman2b\Modul05\Latihan4$1.class
@@ -11,5 +13,10 @@ id\ac\unpas\praktikumpemrograman2b\Modul05\Latihan3$1.class
 id\ac\unpas\praktikumpemrograman2b\Modul05\Latihan4.class
 id\ac\unpas\praktikumpemrograman2b\PraktikumPemrograman2B.class
 id\ac\unpas\modul07\ManajemenNilaiSiswaApp.class
+PP2_2025_233040045_B\Modul08\controller\PersegiPanjangController$HitungLuasListener.class
 Modul06\KonverterSuhu.class
+PP2_2025_233040045_B\Modul08\controller\PersegiPanjangController.class
+PP2_2025_233040045_B\Modul08\controller\PersegiPanjangController$HitungKelilingListener.class
 id\ac\unpas\praktikumpemrograman2b\Modul05\Latihan2.class
+PP2_2025_233040045_B\Modul08\controller\PersegiPanjangController$ResetListener.class
+PP2_2025_233040045_B\Modul08\model\PersegiPanjangModel.class
